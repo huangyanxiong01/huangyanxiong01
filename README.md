@@ -1,16 +1,31 @@
-### Hi there 👋
-
-<!--
-**huangyanxiong01/huangyanxiong01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.myfreax.com">huangyanxiong</a></b></samp></h3>
+<p align="center"><br>
+  <samp>
+    「 🐦 Fullstack developer  」<br>
+  </samp>
+</p>
+<p align="center">
+    <br>
+     <img alt="Code" src="https://img.shields.io/badge/-Code-000000?style=flat&logo=Plex&logoColor=white">
+     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white">
+     <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=black">
+     <img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=TypeScript&logoColor=white">
+     <img alt="Gnubash" src="https://img.shields.io/badge/-Gnu%20Bash-4EAA25?style=flat&logo=Gnu%20bash&logoColor=white">
+     <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white">
+     <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+     <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white">
+ <br>
+    <img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-31A8FF?style=flat&logo=Plex&logoColor=white">
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+    <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black">
+    <img alt="Jenkins X" src="https://img.shields.io/badge/-Jenkins%20X-73C3D5?style=flat&logo=Jenkins%20X&logoColor=black">
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=GitHub%20Actions&logoColor=white">
+    <img alt="Codecov" src="https://img.shields.io/badge/-Codecov-F01F7A?style=flat&logo=Codecov&logoColor=white">
+ </p>
+<br>
+<samp>
+  <p align="center">
+    ════ ⋆★⋆ ════<br>
+    From <a href="https://github.com/huangyanxiong01/huangyanxiong01">huangyanxiong</a>
+  </p>
+</samp>
