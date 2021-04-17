@@ -23,6 +23,10 @@
     <img alt="Codecov" src="https://img.shields.io/badge/-Codecov-F01F7A?style=flat&logo=Codecov&logoColor=white">
  </p>
 <br>
+<p align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=huangyanxiong01&show_icons=true&&theme=react">
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangyanxiong01&layout=compact">
+</p>
 <samp>
   <p align="center">
     ════ ⋆★⋆ ════<br>
