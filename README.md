@@ -36,6 +36,6 @@
 <samp>
   <p align="center">
     ════ ⋆★⋆ ════<br>
-    From <a href="https://github.com/huangyanxiong01/huangyanxiong01">huangyanxiong</a>
+    From <a href="https://www.myfreax.com">huangyanxiong</a>
   </p>
 </samp>
