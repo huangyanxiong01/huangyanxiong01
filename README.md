@@ -14,6 +14,8 @@
      <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white">
      <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
      <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white">
+     <img alt="CSS" src="https://img.shields.io/badge/-Koltin-27282c?style=flat&logo=kotlin&logoColor=#7f52ff">
+  
  <br>
     <img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-31A8FF?style=flat&logo=Plex&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white">
