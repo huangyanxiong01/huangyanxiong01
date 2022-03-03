@@ -29,8 +29,8 @@
   <table >
       <tbody>
           <tr>
-            <td align="center"><img height="195" src="https://github-readme-stats.vercel.app/api?username=huangyanxiong01&show_icons=true&&theme=react"></td>
-            <td align="center"><img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangyanxiong01&layout=compact"></td>
+            <td align="center"><img height="195" src="https://github-readme-stats.vercel.app/api?username=myfreax&show_icons=true&&theme=react"></td>
+            <td align="center"><img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myfreax&layout=compact"></td>
           </tr>
       </tbody>
   </table> 
