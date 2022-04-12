@@ -15,6 +15,7 @@
      <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
      <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white">
      <img alt="CSS" src="https://img.shields.io/badge/-Koltin-27282c?style=flat&logo=kotlin&logoColor=#7f52ff">
+     <img alt="CSS" src="https://img.shields.io/badge/-Golang-bfeaf4?style=flat&logo=go">
   
  <br>
     <img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-31A8FF?style=flat&logo=Plex&logoColor=white">
