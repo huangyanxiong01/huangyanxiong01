@@ -16,7 +16,7 @@
      <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white">
      <img alt="Koltin" src="https://img.shields.io/badge/-Koltin-27282c?style=flat&logo=kotlin&logoColor=#7f52ff">
      <img alt="Golang" src="https://img.shields.io/badge/-Golang-bfeaf4?style=flat&logo=go">
-     <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust">
+     <img alt="Rust" src="https://img.shields.io/badge/-Rust-dea584?style=flat&logo=rust">
   
   
  <br>
