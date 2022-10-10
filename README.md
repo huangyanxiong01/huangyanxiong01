@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <br>
-     <img alt="Code" src="https://img.shields.io/badge/-Code-000000?style=flat&logo=Plex&logoColor=white">
+     <img alt="Code" src="https://img.shields.io/badge/-Code-000000?style=flat&logo=&logoColor=white">
      <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white">
      <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=black">
      <img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=TypeScript&logoColor=white">
@@ -20,7 +20,7 @@
   
   
  <br>
-    <img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-31A8FF?style=flat&logo=Plex&logoColor=white">
+    <img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-31A8FF?style=flat&logo=&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white">
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black">
     <img alt="Jenkins X" src="https://img.shields.io/badge/-Jenkins%20X-73C3D5?style=flat&logo=Jenkins%20X&logoColor=black">
