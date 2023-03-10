@@ -1,4 +1,4 @@
-<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.myfreax.com">huangyanxiong</a></b></samp></h3>
+<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.myfreax.com">myfreax</a></b></samp></h3>
 <p align="center"><br>
   <samp>
     「 🐦 Fullstack developer  」<br>
@@ -41,6 +41,6 @@
 <samp>
   <p align="center">
     ════ ⋆★⋆ ════<br>
-    From <a href="https://www.myfreax.com">huangyanxiong</a>
+    From <a href="https://www.myfreax.com">myfreax</a>
   </p>
 </samp>
