@@ -7,18 +7,16 @@
 <p align="center">
     <br>
      <img alt="Code" src="https://img.shields.io/badge/-Code-000000?style=flat&logo=&logoColor=white">
-     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white">
-     <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=black">
+     <img alt="C language" src="https://img.shields.io/badge/-language-89b2d6?style=flat&logo=c&logoColor=white">
      <img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=TypeScript&logoColor=white">
-     <img alt="Gnubash" src="https://img.shields.io/badge/-Gnu%20Bash-4EAA25?style=flat&logo=Gnu%20bash&logoColor=white">
+     <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=black">
      <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white">
+     <img alt="Gnubash" src="https://img.shields.io/badge/-Gnu%20Bash-4EAA25?style=flat&logo=Gnu%20bash&logoColor=white">
+     <img alt="Koltin" src="https://img.shields.io/badge/-Koltin-27282c?style=flat&logo=kotlin&logoColor=#7f52ff">
      <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
      <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white">
-     <img alt="Koltin" src="https://img.shields.io/badge/-Koltin-27282c?style=flat&logo=kotlin&logoColor=#7f52ff">
-     <img alt="Golang" src="https://img.shields.io/badge/-Golang-bfeaf4?style=flat&logo=go">
-     <img alt="Rust" src="https://img.shields.io/badge/-Rust-dea584?style=flat&logo=rust">
-  
-  
+     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white">
+     
  <br>
     <img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-31A8FF?style=flat&logo=&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white">
